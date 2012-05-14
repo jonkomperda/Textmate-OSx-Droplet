@@ -5,7 +5,7 @@ This is a droplet that allows you to open the current finder window in textmate 
 
 How to use
 ====================
-1.) Go to downloads and download the current version of the app.
+1.) Go to [downloads](https://github.com/jonkomperda/Textmate-OSx-Droplet/downloads) and download the current version of the app.
 
 2.) Unzip the app.
 
